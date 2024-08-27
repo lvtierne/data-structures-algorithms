@@ -1,11 +1,10 @@
-# Algorithms
+# Algorithms Documentation
 
-## Quicksort
-Quicksort is a divide-and-conquer algorithm. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
+## QuickSort
+QuickSort is a divide-and-conquer algorithm that selects a pivot element and partitions the array into two halves, recursively sorting the halves.
 
-### Steps:
-1. Choose a pivot element.
-2. Partition the array into sub-arrays.
-3. Recursively sort the sub-arrays.
+## MergeSort
+MergeSort is a divide-and-conquer algorithm that splits the array into two halves, recursively sorts them, and then merges the sorted halves.
 
-### Example:
+## Binary Search
+Binary Search is an efficient algorithm for finding an item in a sorted array by repeatedly dividing the search interval in half.

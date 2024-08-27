@@ -1,27 +1,14 @@
-# data-structures-algorithms
-# Data Structures and Algorithms
+# Data Structures and Algorithms Project Overview
 
-## Overview
-This repository contains implementations of fundamental data structures and algorithms in Python. It's designed as a resource for studying and understanding the basics of computer science.
+This repository contains implementations of common data structures and algorithms, along with their respective unit tests and documentation.
 
-## Contents
-- Data Structures
-  - Linked List
-  - Binary Tree
-  - Graph
-  - Heap
-- Algorithms
-  - Sorting
-    - Quicksort
-    - Mergesort
-  - Searching
-    - Binary Search
-    - Linear Search
+## Structure
+- **src/**: Contains the source code for data structures and algorithms.
+- **tests/**: Contains unit tests for the implementations.
+- **docs/**: Contains documentation for the data structures and algorithms.
 
-## How to Use
-Clone this repository and explore the implementations. You can run the tests to verify correctness or experiment with the provided examples.
+## Usage
+You can use the `main.py` file to run examples of the implemented data structures and algorithms.
 
-```bash
-git clone https://github.com/your-username/data-structures-algorithms.git
-cd data-structures-algorithms
-python src/main.py
+## Contributing
+Feel free to submit issues or pull requests if you find bugs or have improvements to suggest.
