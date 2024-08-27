@@ -1,5 +1,4 @@
 # data-structures-algorithms
-# Data Structures and Algorithms
 
 ## Overview
 This repository contains implementations of fundamental data structures and algorithms in Python. It's designed as a resource for studying and understanding the basics of computer science.
